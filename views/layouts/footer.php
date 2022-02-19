@@ -22,21 +22,21 @@
                         <div class="row">
                             <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                                 <div class="bg-image  btn-outline-danger hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light"><a class="btn btn-floating m-1 " role="button" href="https://ichirakuramenco.com/ichiland/">
-                                        <img src="<?php echo constant('URL')?>/public/multimedia/" class="w-100" />
+                                        <img src="<?php echo constant('URL')?>/public/multimedia/Ichiland.php" class="w-100" />
                                     </a>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                                 <div class="bg-image btn-outline-danger hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
                                     <a class="btn btn-floating m-1" role="button" href="https://ichirakuramenco.com/ichiraku-bogota/">
-                                        <img src="./IchiBog.png" class="w-100" />
+                                        <img src="<?php echo constant('URL')?>/public/multimedia/IchiBog.png" class="w-100" />
                                     </a>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                                 <div class="bg-image btn-outline-danger hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
                                     <a class="btn btn-floating m-1" role="button" href="https://ichirakuramenco.com/ichiraku-medellin/">
-                                        <img src="./IchiMed.png" class="w-100" />
+                                        <img src="<?php echo constant('URL')?>/public/multimedia/IchiMed.png" class="w-100" />
                                         <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);">
                                         </div>
                                     </a>
@@ -46,7 +46,7 @@
                             <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                                 <div class="bg-image btn-outline-danger hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
                                     <a class="btn btn-floating m-1" href="https://ichirakuramenco.com/ichiraku-cali/" role="button">
-                                        <img src="./IchiCal.png" class="w-100" />
+                                        <img src="<?php echo constant('URL')?>/public/multimedia/IchiCal.png" class="w-100" />
                                         <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);">
                                         </div>
                                     </a>
